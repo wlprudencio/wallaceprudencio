@@ -1,6 +1,5 @@
+## Olá, seja bem-vindo ao meu perfil!
 ## Me chamo Wallace Prudencio!
-# Olá, seja bem-vindo ao meu perfil!
-
 ## Tecnologias que eu uso atualmente🚀
 
 ### Linguagens e Ferramentas:
