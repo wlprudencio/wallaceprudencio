@@ -13,5 +13,8 @@
 - Projeto de backend com **Java** e **Spring Boot**.
 - Projetos Orientados a Objeto.
 ---
-Fique à vontade para explorar meus repositórios! 😄
+![Wallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceprudencio&show_icons=true&theme=radical)
+
+
+
 
